@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# CodeIgniter
+application/logs/*
+application/cache/*
+!application/logs/index.html
+!application/cache/index.html
+
+# PHP
+*.log
+
+# IDE
+.vscode/
+.idea/
